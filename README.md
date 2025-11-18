@@ -1,2 +1,4 @@
 # learning-about-version-control
-1. Solving merge conflicts is easy!
+
+Git Hub: Solving merge conflicts is easy!
+Local: Solving merge conflicts is soooooo hard!
